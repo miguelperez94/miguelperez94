@@ -20,7 +20,7 @@ For more information, please reach me at my [email](mailto:maperez13@uc.cl) or b
 
 ### Code and Analysis Samples
 
-- 💸 **[Reduction of the debt-to-income ratio in the United States between 2007 and 2015](https://github.com/miguelperez94/reduction_dti_ratio_united_states)** (November 2024 | Python, Altair): This project analyses the generalized reduction in the household debt-to-income ratio that happened in the United States after the Great Recession by using data at the state and county level, which shows important disparity in base levels of the debt-to-income ratio and its change among states and counties, but preliminary limited impact of this change in income and employment outcomes. 
+- 💸 **[Reduction of the debt-to-income ratio in the United States between 2007 and 2015](https://github.com/miguelperez94/reduction_dti_ratio_united_states)** (November 2024 | Python, Altair): Analysis of the generalized reduction in the household debt-to-income ratio that happened in the United States after the Great Recession by using data at the state and county level, which shows important disparity in base levels of the debt-to-income ratio and its change among states and counties, but preliminary limited impact of this change in income and employment outcomes. 
 
 
 <!--
