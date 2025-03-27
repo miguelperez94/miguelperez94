@@ -1,8 +1,8 @@
 ### About me 👋
 
-I am Miguel Pérez, a current graduate student of the University of Chicago's [Master in Computational Analysis and Public Policy](https://capp.uchicago.edu/). Previously I have worked at the intersection of data science and microeconomics as a consultant at the private sector and the World Bank. 
+I am Miguel Pérez, a current graduate student of the University of Chicago's [Master in Computational Analysis and Public Policy](https://capp.uchicago.edu/). Previously, I  worked at the intersection of data science and microeconomics as a consultant in the private sector and at the World Bank. 
 
-For more information, please reach me at my [email](mailto:maperez13@uc.cl) or by [LinkedIn](https://www.linkedin.com/in/miguelperezrodriguez94/).
+For more information, feel free to contact me via [email](mailto:maperez13@uc.cl) or connect with me on [LinkedIn](https://www.linkedin.com/in/miguelperezrodriguez94/).
 
 ### Languages and Tools
 
@@ -20,7 +20,11 @@ For more information, please reach me at my [email](mailto:maperez13@uc.cl) or b
 
 ### Code and Analysis Samples
 
-- 💸 **[Reduction of the debt-to-income ratio in the United States between 2007 and 2015](https://github.com/miguelperez94/reduction_dti_ratio_united_states)** (November 2024 | Python, Altair): Analysis of the generalized reduction in the household debt-to-income ratio that happened in the United States after the Great Recession by using data at the state and county level, which shows important disparity in base levels of the debt-to-income ratio and its change among states and counties, but preliminary limited impact of this change in income and employment outcomes. 
+- 🏠 **[Heterogeneity of metropolitan areas in the United States](https://github.com/miguelperez94/heterogeneity_metro_areas_us/tree/main)** (December 2024 | Python, HTML, D3, CSS): Interactive analysis of the economic heterogeneity in the United States at the Metropolitan Statistical Area (MSA) level, focusing on two user-centered questions: (i) "Which places are improving (or not) economically in the United States?", and (ii) "How is a particular MSA performing compared to the rest of the United States?". HTML page currently available at this [link](https://miguelperez.netlify.app/).
+
+- 💸 **[Reduction of the debt-to-income ratio in the United States between 2007 and 2015](https://github.com/miguelperez94/reduction_dti_ratio_united_states)** (November 2024 | Python, Altair): Analysis of the generalized reduction in the household debt-to-income ratio that happened in the United States after the Great Recession by using data at the state and county level. The findings highlight significant disparities in base levels of debt-to-income ratios and their change across states and counties, but preliminary limited impact of this change in income and employment outcomes.
+
+- 🏫 **[Distance and simulations with early education centers at Illinois](https://github.com/LosCAPPos/EarlyEducationProject)** (March 2024 | Python): Group project with three classmates to analyze (i) the distance at a census tract level to the closest early education center, and (ii) an optimization model to see in which census tracts new centers could have the greatest impact by reducing distances and travel time. My main role was developing the backend for the optimization section of the project.
 
 
 <!--
