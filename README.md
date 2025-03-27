@@ -14,7 +14,7 @@ For more information, please reach me at my [email](mailto:maperez13@uc.cl) or b
   <img alt="HTML" src= "https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS" src= "https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
   <img alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-  <img alt="Amazon AWS" src= "https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
+  <img alt="AWS" src= "https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img alt= "MySQL" src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
