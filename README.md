@@ -17,6 +17,7 @@ For more information, feel free to contact me via [email](mailto:maperez13@uc.cl
   <img alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
   <img alt="AWS" src= "https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img alt= "Markdown" src = "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img alt= "LaTeX" src = "https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
 ### Code and Analysis Samples
