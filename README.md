@@ -1,8 +1,8 @@
 ### About me 👋
 
-I am Miguel Pérez, a current graduate student of the University of Chicago's [Master in Computational Analysis and Public Policy](https://capp.uchicago.edu/). Previously, I worked on data science and microeconomics projects in private sector consulting and at the World Bank. 
+I am Miguel Pérez, a recent graduate student of the University of Chicago's [Master in Computational Analysis and Public Policy](https://capp.uchicago.edu/). Previously, I worked on data science and microeconomics projects in private sector consulting and at the World Bank. 
 
-For more information, feel free to contact me via [email](mailto:maperez13@uc.cl) or connect with me on [LinkedIn](https://www.linkedin.com/in/miguelperezrodriguez94/).
+For more information, feel free to contact me via [email](mailto:miguelperezrodriguez94@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/miguelperez94/).
 
 ### Languages and Tools
 
