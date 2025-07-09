@@ -22,7 +22,7 @@ For more information, feel free to contact me via [email](mailto:miguelperezrodr
 
 ### Code and Analysis Samples
 
-- 🏢 **[Apartments Plus](https://github.com/uchicago-capp-30320/apt-plus)** (May 2025 | Python, Django, PostGIS, JavaScript): [Apartments Plus](https://aptpl.us) aggregates data for the city of Chicago that mainstream rental sites often do not display, such as summary of building infractions by using LLM, nearby grocery stores and public transport stops and routes. This is a team project developed by eight contributors. My contributions included backend coding, product design, testing, and code review.
+- 🏢 **[Apartments Plus](https://github.com/uchicago-capp-30320/apt-plus)** (May 2025 | Python, Django, PostGIS, JavaScript): [Apartments Plus](https://aptpl.us) aggregates data for the city of Chicago (especially Hyde Park) that mainstream rental sites often do not display, such as LLM-generated summaries of building infractions, nearby grocery stores, and public transport stops and routes. This is a team project developed by eight contributors. My contributions included backend coding, product design, testing, and code review.
 
 - 🏠 **[Heterogeneity of metropolitan areas in the United States](https://github.com/miguelperez94/heterogeneity_metro_areas_us/tree/main)** (December 2024 | Python, HTML, D3, CSS): Interactive analysis of the economic heterogeneity in the United States at the Metropolitan Statistical Area (MSA) level, focusing on which places are improving (or not) economically in the United States based in its income, price indices, and population growth. HTML page currently available at this [link](https://miguelperez.netlify.app/).
 
