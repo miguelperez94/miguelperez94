@@ -44,9 +44,10 @@ For more information, feel free to contact me via [email](mailto:miguelperezrodr
 
 📌 **Software Engineering** (Django, Pytest) – **CAPP 30320**
 
+📌 **Statistics and Econometrics** (R, Stata) – **PPHA 30121, 34600, 44900**
+
 📌 **Algorithms** (Algorithmic Thinking) – **MPCS 55001**
 
-📌 **Statistics and Econometrics** (R, Stata) – **PPHA 30121, 34600, 44900**
 
 <!--
 **miguelperez94/miguelperez94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
