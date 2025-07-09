@@ -30,6 +30,23 @@ For more information, feel free to contact me via [email](mailto:miguelperezrodr
 
 - 🏫 **[Distance and simulations to early education centers at Illinois](https://github.com/LosCAPPos/EarlyEducationProject)** (March 2024 | Python): Group project with three classmates to analyze (i) the distance at a census tract level to the closest early education center, and (ii) an optimization model to see in which census tracts new centers could have the greatest impact by reducing distances and travel time. My contributions included the backend for the optimization model and project management.
 
+###  📚 Coursework and Skills
+
+📌 **Computer Science with Applications I & II** (Python) – **CAPP 30121, 30122**  
+
+📌 **Database Management** (Flask, SQL, PostgreSQL) – **CAPP 30235** 
+
+📌 **Machine Learning** (Supervised ML, Unsupervised ML, NLP, LLM) – **CAPP 30254, 30255, 30271, PPHA 38829** 
+
+📌 **Data Visualization** (Altair, JavaScript, D3.js) – **CAPP 30239**  
+
+📌 **Cloud Computing** (AWS, EC2, S3) – **MPCS 51083**
+
+📌 **Software Engineering** (Django, Pytest) – **CAPP 30320**
+
+📌 **Algorithms** (Algorithmic Thinking) – **CAPP 30320**
+
+📌 **Statistics and Econometrics** (R, Stata) – **PPHA 30121, 34600, 44900**
 
 <!--
 **miguelperez94/miguelperez94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
