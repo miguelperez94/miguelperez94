@@ -44,7 +44,7 @@ For more information, feel free to contact me via [email](mailto:miguelperezrodr
 
 📌 **Software Engineering** (Django, Pytest) – **CAPP 30320**
 
-📌 **Algorithms** (Algorithmic Thinking) – **CAPP 30320**
+📌 **Algorithms** (Algorithmic Thinking) – **MPCS 55001**
 
 📌 **Statistics and Econometrics** (R, Stata) – **PPHA 30121, 34600, 44900**
 
