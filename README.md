@@ -1,10 +1,10 @@
-### About me 👋
+## About me 👋
 
 I am Miguel Pérez, a recent graduate student of the University of Chicago's [Master in Computational Analysis and Public Policy](https://capp.uchicago.edu/). Previously, I worked on data science and microeconomics projects in private sector consulting and at the World Bank. 
 
 For more information, feel free to contact me via [email](mailto:miguelperezrodriguez94@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/miguelperez94/).
 
-### Languages and Tools
+## Languages and Tools
 
 <p>
   <img alt= "Python" src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
@@ -20,7 +20,7 @@ For more information, feel free to contact me via [email](mailto:miguelperezrodr
   <img alt= "LaTeX" src = "https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
-### Code and Analysis Samples
+## Code and Analysis Samples
 
 - 🏢 **[Apartments Plus](https://github.com/uchicago-capp-30320/apt-plus)** (May 2025 | Python, Django, PostGIS, JavaScript): the [webpage](https://aptpl.us) of Apartments Plus aggregates data for the city of Chicago (especially Hyde Park) that mainstream rental sites often do not display, such as LLM-generated summaries of building infractions, nearby grocery stores, and public transport stops and routes. This is a team project developed by eight contributors. My contributions included backend coding, product design, testing, and code review.
 
@@ -30,7 +30,7 @@ For more information, feel free to contact me via [email](mailto:miguelperezrodr
 
 - 🏫 **[Distance and simulations to early education centers at Illinois](https://github.com/LosCAPPos/EarlyEducationProject)** (March 2024 | Python): Group project with three classmates to analyze (i) the distance at a census tract level to the closest early education center, and (ii) an optimization model to see in which census tracts new centers could have the greatest impact by reducing distances and travel time. My contributions included the backend for the optimization model and project management.
 
-###  📚 Coursework and Skills
+##  📚 Coursework and Skills
 
 📌 **Computer Science with Applications I & II** (Python) – **CAPP 30121, 30122**  
 
