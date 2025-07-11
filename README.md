@@ -36,7 +36,7 @@ For more information, feel free to contact me via [email](mailto:miguelperezrodr
 
 ---
 
-##  📚 Coursework and Skills
+## Coursework and Skills
 
 📌 **Computer Science with Applications I & II** (Python) – **CAPP 30121, 30122**  
 
