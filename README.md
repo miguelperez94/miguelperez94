@@ -40,7 +40,7 @@ For more information, feel free to contact me via [email](mailto:miguelperezrodr
 
 📌 **Computer Science with Applications I & II** (Python) – **CAPP 30121, 30122**  
 
-📌 **Database Management** (Flask, SQL, PostgreSQL) – **CAPP 30235** 
+📌 **Database Management** (Flask, SQL) – **CAPP 30235** 
 
 📌 **Machine Learning** (Supervised ML, Unsupervised ML, NLP, LLM) – **CAPP 30254, 30255, 30271, PPHA 38829** 
 
