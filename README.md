@@ -46,9 +46,9 @@ For more information, feel free to contact me via [email](mailto:miguelperezrodr
 
 📌 **Data Visualization** (Altair, JavaScript, D3.js) – **CAPP 30239**  
 
-📌 **Cloud Computing** (AWS, EC2, S3) – **MPCS 51083**
+📌 **Cloud Computing** (AWS) – **MPCS 51083**
 
-📌 **Software Engineering** (Django, Pytest) – **CAPP 30320**
+📌 **Software Engineering** (GitHub, Django, Pytest) – **CAPP 30320**
 
 📌 **Statistics and Econometrics** (R, Stata) – **PPHA 30121, 34600, 44900**
 
