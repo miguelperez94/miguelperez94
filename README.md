@@ -16,6 +16,7 @@ For more information, feel free to contact me via [email](mailto:miguelperezrodr
   <img alt="HTML" src= "https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS" src= "https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
   <img alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+  <img alt="Tableau" src= "https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
   <img alt="AWS" src= "https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img alt="GitHub" src= "https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt= "Markdown" src = "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
