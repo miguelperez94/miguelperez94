@@ -33,7 +33,7 @@ For more information, feel free to contact me via [email](mailto:miguelperezrodr
 
 - 💸 **[Reduction of the debt-to-income ratio in the United States between 2007 and 2015](https://github.com/miguelperez94/reduction_dti_ratio_united_states)** (November 2024 | Python, Altair): Analysis at the state and county level of the generalized reduction in the household debt-to-income ratio that happened in the United States after the Great Recession. The findings highlight significant disparities in base levels of debt-to-income ratios and their change across states and counties, but preliminarily indicate almost no impact of this change in income and employment outcomes.
 
-- 🏫 **[Distance and simulations to early education centers at Illinois](https://github.com/LosCAPPos/EarlyEducationProject)** (March 2024 | Python): Group project with three classmates to analyze (i) the distance at a census tract level to the closest early education center, and (ii) an optimization model to see in which census tracts new centers could have the greatest impact by reducing distances and travel time. My contributions included the backend for the optimization model and project management.
+- 🏫 **[Distance and simulations to early education centers at Illinois](https://github.com/LosCAPPos/EarlyEducationProject)** (March 2024 | Python, Dash): Group project with three classmates to analyze (i) the distance at a census tract level to the closest early education center, and (ii) an optimization model to see in which census tracts new centers could have the greatest impact by reducing distances and travel time. My contributions included the backend for the optimization model and project management.
 
 ---
 
